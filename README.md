@@ -30,9 +30,9 @@ Compatible with Koha **20.05 and newer**, including Koha 23.05+ / 25.07's
 
 ## Quick start
 
-1. Download `events manager.kpz` from
-   [Releases](../../releases) (or build it — see below).
-2. Enable the `UseKohaPlugins` system preference.
+1. Download `Koha-Event-Manager-Plugin.kpz` from
+   [Releases](../../releases) (...Latest...).
+2. Enable the `KohaPlugins`.
 3. **Administration → Manage plugins → Upload plugin** → upload the `.kpz`.
 4. Open **Tools → Events Manager**, add an event, and check the Live
    preview.
